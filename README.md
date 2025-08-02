@@ -2,9 +2,9 @@
 <!-- <h1 align="center"><strong>Sukheshram</strong></h1> -->
 <h3 align="center">Full Stack Engineer </h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=MERN+%2B+Python+Specialist;AI+Powered+System+Builder;Real-Time+Architecture+Engineer;Relentless+Problem+Solver" alt="Typing SVG" />
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://linkedin.com/in/sukheshram1408" target="_blank">

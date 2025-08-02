@@ -1,19 +1,21 @@
-<h1 align="center"> S U K H E S H R A M</h1>
-<h3 align="center">Code Strategist • Real-Time Systems Builder • AI Integrator</h3>
+<h1 align="center"><strong> S U K H E S H R A M </strong></h1>
+<!-- <h1 align="center"><strong>Sukheshram</strong></h1> -->
+<h3 align="center">Full Stack Engineer </h3>
 
 <p align="center">
-<!--   <img src="https://yourdomain.com/royal-banner.png" width="800" alt="Sukheshram Banner"/> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=MERN+%2B+Python+Specialist;AI+Powered+System+Builder;Real-Time+Architecture+Engineer;Relentless+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=MERN+%2B+Python+Specialist;AI+Powered+System+Builder;Real-Time+Architecture+Engineer;Relentless+Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<!--   <a href="https://github.com/Sukheshram14"><img src="https://komarev.com/ghpvc/?username=Sukheshram14&color=gold" /></a> -->
-  <a href="https://linkedin.com/in/sukheshram1408"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sukheshram14aug2006@gmail.com"><img src="https://img.shields.io/badge/Email-FF4136?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Sukheshram14/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-black?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sukheshram1408" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sukheshram14aug2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FF4136?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Sukheshram14/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 ---

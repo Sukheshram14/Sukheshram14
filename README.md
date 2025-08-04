@@ -1,6 +1,17 @@
-<h1 align="center"><strong> S U K H E S H R A M </strong></h1>
-<!-- <h1 align="center"><strong>Sukheshram</strong></h1> -->
-<h3 align="center">Full Stack Engineer </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=50&duration=3000&pause=3000&color=FACC15&center=true&vCenter=true&width=800&lines=S+U+K+H+E+S+H+R+A+M" alt="Typing SVG" />
+</p>
+<!-- <h1 align="center">
+  <strong style="font-family: 'Cinzel', serif; font-size: 48px;">S U K H E S H R A M</strong>
+</h1> -->
+
+
+
+
+
+<!--<h1 align="center"><strong> S U K H E S H R A M </strong></h1>
+ <h1 align="center"><strong>Sukheshram</strong></h1> 
+<h3 align="center">Full Stack Engineer </h3>-->
 
 <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=MERN+%2B+Python+Specialist;AI+Powered+System+Builder;Real-Time+Architecture+Engineer;Relentless+Problem+Solver" alt="Typing SVG" />
